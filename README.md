@@ -1,2 +1,2 @@
-# World_of_Tanks_2
+# World of Tanks 2
 Game in which tanks are fighting in the maze
